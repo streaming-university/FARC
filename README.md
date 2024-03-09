@@ -1,6 +1,8 @@
 # Public repository for FARC (Fast Actor Conservative Critic)
 Submission for the 2nd Bandwidth Estimation Challenge at ACM MMSys 2024
 
+## 🥈 FARC Ranked 2nd in the final challenge
+
 ## Installation
 Install the required Python packages
 
