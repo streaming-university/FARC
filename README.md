@@ -35,6 +35,10 @@ To evaluate the model, run the `evaluate.py` script.
 
 This will evaluate the model on the test subset of emulated dataset and save the results in the `figs` folder.
 
+If you want to reproduce the figures in the paper, extract the call traces in the `test-traces.zip` and change the line 18 (`data_dir`) in `eval.py` to point to this folder. 
+
+This will evaluate the model on these call traces and save the figures in the `figs` folder.
+
 ## ONNX Visualization
 You can find the visualization of the ONNX model using the [Netron](https://netron.app/) tool below:
 
