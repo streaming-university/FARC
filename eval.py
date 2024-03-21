@@ -39,7 +39,7 @@ if __name__ == "__main__":
         plt.plot(time_s, bandwidth_predictions/1000, label='Baseline BW Estimator', color='r')
         plt.plot(time_s, true_capacity/1000, label='True Capacity', color='k')
         plt.ylabel("Bandwidth (Kbps)")
-        plt.xlabel("Call Duration (second)")
+        plt.xlabel("Call Duration (s)")
         plt.grid(True)
         plt.legend()
         plt.savefig(os.path.join(figs_dir,os.path.basename(filename).replace(".json",".png")))
