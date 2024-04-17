@@ -1,4 +1,7 @@
-# Public repository for FARC (Fast Actor Conservative Critic)
+# Public repository for FARC
+**Paper Title:** Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic 
+([🔗Link](https://dl.acm.org/doi/10.1145/3625468.3652184))
+
 Submission for the [2nd Bandwidth Estimation Challenge at ACM MMSys 2024](https://www.microsoft.com/en-us/research/academic-program/bandwidth-estimation-challenge/)
 
 ## 🥈 FARC Ranked 2nd in the final challenge
@@ -48,5 +51,14 @@ You can find the visualization of the ONNX model using the [Netron](https://netr
 If you use this code in your research, please cite our paper:
 
 ```
-To be updated
+@inproceedings{FARC,
+    author = {Çetinkaya, Ekrem and Pehlivanoglu, Ahmet and Ayten, Ihsan U. and Yumakogullari, Basar and Ozgun, Mehmet E. and Erinc, Yigit K. and Deniz, Enes and Begen, Ali C.},
+    booktitle = {Proceedings of the 15th ACM Multimedia Systems Conference},
+    doi = {10.1145/3625468.3652184},
+    publisher = {Association for Computing Machinery},
+    series = {MMSys'24},
+    title = {{Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic}},
+    url = {https://doi.org/10.1145/3625468.3652184},
+    year = {2024}
+}
 ```
