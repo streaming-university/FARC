@@ -43,12 +43,11 @@ preferred-citation:
   title: Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic
   doi: 10.1145/3625468.3652184
   url: https://doi.org/10.1145/3625468.3652184
-  type: inproceedings
+  type: conference-paper
   pages: 388–393
   year: '2024'
   isbn: '9798400704123'
   collection-title: Proceedings of the 15th ACM Multimedia Systems Conference
-  collection-type: inproceedings
   conference:
     name: MMSys '24
   publisher:
