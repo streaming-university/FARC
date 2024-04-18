@@ -1,41 +1,56 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Çetinkaya
+    given-names: Ekrem
+  - family-names: Pehlivanoglu
+    given-names: Ahmet
+  - family-names: Ayten
+    given-names: Ihsan U.
+  - family-names: Yumakogullari
+    given-names: Basar
+  - family-names: Ozgun
+    given-names: Mehmet E.
+  - family-names: Erinc
+    given-names: Yigit K.
+  - family-names: Deniz
+    given-names: Enes
+  - family-names: Begen
+    given-names: Ali C.
+title: Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic
+version: 1.0.0
+url: https://doi.org/10.1145/3625468.3652184
+doi: 10.1145/3625468.3652184
+date-released: '2024-04-18'
 preferred-citation:
   authors:
-    - family-names: "Çetinkaya"
-      given-names: "Ekrem"
-      orcid: "https://orcid.org/0000-0002-6084-6249"
-    - family-names: "Pehlivanoglu"
-      given-names: "Ahmet"
-    - family-names: "Ayten"
-      given-names: "Ihsan U."
-    - family-names: "Yumakogullari"
-      given-names: "Basar"
-    - family-names: "Ozgun" 
-      given-names: "Mehmet E."
-    - family-names: "Erinc"
-      given-names: "Yigit K."
-    - family-names: "Deniz"
-      given-names: "Enes"
-    - family-names: "Begen"
-      given-names: "Ali C."
-  title: "Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic"
+    - family-names: Çetinkaya
+      given-names: Ekrem
+    - family-names: Pehlivanoglu
+      given-names: Ahmet
+    - family-names: Ayten
+      given-names: Ihsan U.
+    - family-names: Yumakogullari
+      given-names: Basar
+    - family-names: Ozgun
+      given-names: Mehmet E.
+    - family-names: Erinc
+      given-names: Yigit K.
+    - family-names: Deniz
+      given-names: Enes
+    - family-names: Begen
+      given-names: Ali C.
+  title: Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic
   doi: 10.1145/3625468.3652184
-  url : "https://doi.org/10.1145/3625468.3652184"
-  type: conference-paper
-  pages: "388–393"
-  year: "2024"
-  isbn: "9798400704123"
-  collection-title: "Proceedings of the 15th ACM Multimedia Systems Conference"
-  collection-type: proceedings
-  location:
-        name: "Bari, Italy"
+  url: https://doi.org/10.1145/3625468.3652184
+  type: inproceedings
+  pages: 388–393
+  year: '2024'
+  isbn: '9798400704123'
+  collection-title: Proceedings of the 15th ACM Multimedia Systems Conference
+  collection-type: inproceedings
   conference:
-        name: "MMSys'24"
+    name: MMSys '24
   publisher:
-        name: "Association for Computing Machinery"
-        address: "New York, NY, USA"
-title: "Offline Reinforcement Learning for Bandwidth Estimation in RTC Using a Fast Actor and Not-So-Furious Critic"
-version: 1.0.0
-date-released: 2024-04-17
-url: "https://github.com/streaming-university/FARC"
+    name: Association for Computing Machinery
+    address: New York, NY, USA
